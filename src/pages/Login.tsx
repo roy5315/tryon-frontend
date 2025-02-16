@@ -8,7 +8,7 @@ function Login() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle login logic
+    window.location.pathname = "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On"
   };
 
   return (
