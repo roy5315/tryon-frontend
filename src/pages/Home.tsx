@@ -43,7 +43,7 @@ function Home() {
             Experience the future of fashion with our AI-powered recommendation system.
             Get personalized outfit suggestions tailored to your unique style.
           </p>
-          <a href="https://www.kolorsvirtual.com/">
+          <a href="https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On">
           <button className="bg-white text-black px-8 py-4 rounded-full font-medium hover:bg-purple-100 transition-colors">
             Get Started
           </button>
