@@ -43,9 +43,11 @@ function Home() {
             Experience the future of fashion with our AI-powered recommendation system.
             Get personalized outfit suggestions tailored to your unique style.
           </p>
+          <a href="https://www.kolorsvirtual.com/">
           <button className="bg-white text-black px-8 py-4 rounded-full font-medium hover:bg-purple-100 transition-colors">
             Get Started
           </button>
+          </a>
           <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
             <ChevronDown className="w-8 h-8 text-white" />
           </div>
